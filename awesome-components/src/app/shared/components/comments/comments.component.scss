@@ -1,0 +1,17 @@
+.comments-row {
+  display: flex;
+  border-top: thin solid #555;
+  padding-top: 10px;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 90%;
+}
+
+mat-form-field {
+  width: 90%;
+}
+
+mat-list-item {
+  max-width: 90%;
+  border-bottom: thin solid #555;
+}
